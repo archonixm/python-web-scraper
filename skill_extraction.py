@@ -1,17 +1,31 @@
+import pandas as pd
 import re
 import nltk
 from nltk import ngrams
 from difflib import get_close_matches as gcm
 
+# Skills
+df_skills = pd.read_csv('skills/skill.csv')
+SKILLS = df_skills['Skill'].unique().tolist()
+
+# Redundant skills
+df_redskills = pd.read_excel('skills/Other Skills.xlsx')
+RED_SKILLS = df_redskills['Skill'].unique().tolist()
+
+# Duplicate skills
+df_dupskills = pd.read_excel('skills/Other Skills.xlsx', sheet_name='Duplicates')
+DUP_SKILLS = df_dupskills.set_index('Skill').to_dict()['Parent']
+SKILLS.extend(list(DUP_SKILLS.keys()))
+
 
 # Extract skills from text
 # Change threshold for string matching, the higher the threshold the stricter is the matching
-def extract_skills(info, skills, threshold=0.9):
+def extract_skills(info, threshold=0.9):
     # Convert text to unigrams, bigrams and trigrams
     words, unigrams, bigrams, trigrams = clean_info(info)
     results = []
     # Iterate through all the skills
-    for skill in skills:
+    for skill in SKILLS:
         s = skill
         # If a skill has a abbreviation e.g. Amazon Web Service (AWS)
         # We match the abbreviation directly first
@@ -47,10 +61,10 @@ def extract_skills(info, skills, threshold=0.9):
 
 # Remove the skills to ignore from the extracted skill list
 # And for duplicate skills, replace them with the original skill name
-def extract_ignore(skills, redundant_skills, duplicate_skills):
+def extract_ignore(skills):
     ignore_skills = []
     for j, skill in enumerate(skills):
-        if skill in redundant_skills:
+        if skill in RED_SKILLS:
             ignore_skills.append(skill)
             continue
         for other in skills[:j] + skills[j+1:]:
@@ -64,8 +78,8 @@ def extract_ignore(skills, redundant_skills, duplicate_skills):
     job_skills = []
     for skill in skills:
         if skill not in ignore_skills:
-            if skill in duplicate_skills.keys():
-                skill = duplicate_skills[skill]
+            if skill in DUP_SKILLS.keys():
+                skill = DUP_SKILLS[skill]
             job_skills.append(skill)
     return list(set(job_skills)), list(set(ignore_skills))
 
