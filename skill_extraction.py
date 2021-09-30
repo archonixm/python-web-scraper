@@ -3,19 +3,34 @@ import re
 import nltk
 from nltk import ngrams
 from difflib import get_close_matches as gcm
+from sqlalchemy import create_engine
+from collections import Counter
+from data_skills import DATA_SKILLS, SKILL_DICT
+from secrets import settings
+
+engine = create_engine(settings['skills_db'])
 
 # Skills
-df_skills = pd.read_csv('skills/skill.csv')
+# df_skills = pd.read_csv('skills/skill.csv')
+df_skills = pd.read_sql_query('select "Skill" from "Skill"', engine)
 SKILLS = df_skills['Skill'].unique().tolist()
 
 # Redundant skills
-df_redskills = pd.read_excel('skills/Other Skills.xlsx')
+# df_redskills = pd.read_excel('skills/Other Skills.xlsx')
+df_redskills = pd.read_sql_query('select "Skill" from "IgnoreSkill" isk join "Skill" s on s."Id" = isk."Id" ', engine)
 RED_SKILLS = df_redskills['Skill'].unique().tolist()
 
 # Duplicate skills
-df_dupskills = pd.read_excel('skills/Other Skills.xlsx', sheet_name='Duplicates')
+# df_dupskills = pd.read_excel('skills/Other Skills.xlsx', sheet_name='Duplicates')
+df_dupskills = pd.read_sql_query('select ask."Skill", s."Skill" as "Parent" from "AlternateSkill" ask join "Skill" s on s."Id" = ask."Id"', engine)
 DUP_SKILLS = df_dupskills.set_index('Skill').to_dict()['Parent']
 SKILLS.extend(list(DUP_SKILLS.keys()))
+
+# Data skills (lower cased)
+DATA_SKILLS_LOW = [s.lower() for s in DATA_SKILLS]
+
+
+engine.dispose()
 
 
 # Extract skills from text
@@ -82,6 +97,12 @@ def extract_ignore(skills):
                 skill = DUP_SKILLS[skill]
             job_skills.append(skill)
     return list(set(job_skills)), list(set(ignore_skills))
+
+# Get data skills from all skills
+def extract_data_skills(all_skills):
+    data_skills = [s for s in all_skills if s.lower() in DATA_SKILLS_LOW]
+    data_skills = [SKILL_DICT[s] if s in SKILL_DICT.keys() else s for s in data_skills]
+    return data_skills
 
 # Text cleaning
 def clean_info(info):
