@@ -1,0 +1,254 @@
+id,title,subtitle,author,skills,jobs
+a5a2af3b69c7,5 pandas functions I found to be useful for specific operations,,José Fernando Costa,Pandas,Manufacturing/Operations
+8882272a1a6,How I Went From Being a Sales Engineer to Deep Learning / Computer Vision Research Engineer,,Manpreet Singh Minhas,Computer Vision; Deep Learning; Research; Sales,Sales
+befcd0e903e8,Machine Learning Operations with Kubeflow,Brief introduction:,Kenechi Ojukwu,Machine Learning,Manufacturing/Operations
+4d3976b26fdb,Settling the Debate: Organic vs. Paid,Data science applied to marketing and investment strategy,Sid Khaitan,Data Science; Investment; Marketing,Marketing
+91ca17669e84,Efficient Pandas: Apply vs Vectorized Operations,Time and efficimatters,Soner Yıldırım,Pandas,Manufacturing/Operations
+ad4839710d3b,Process Dataset with 200 Million Rows using Vaex,Perform Operations on a large dataset using vaex data…,Satyam Kumar,Dataset,Manufacturing/Operations
+62afacd0777,Super Store Sales Use-Case Data Analytics and Visualization,,Swasti Khurana,Data Analytics; Sales; Visualization,Sales
+ce7e9d508d5b,Random Forests: Python Video Games Sales Veri Seti İle Uygulama,,Buse Köseoğlu,Python; Random Forest; Sales; Video,Sales
+b1b2a753faf6,"TensorFlow Custom training, Transfer learning & Custom layers",,Jonathan Hui,TensorFlow; Training,Training
+25aebcf49922,SQL vs NoSQL in 8 Examples,Practical guide to compare basic operations in both,Soner Yıldırım,NoSQL; Structured Query Language (SQL),Manufacturing/Operations
+2a6af80cf1f0,Training Generative Adversarial Network (codes provided),Building your GAN series–part 4 of 4,Jingles (Hong Jing),Dual Generative Adversarial Network (DualGAN); Generative Adversarial Network (GAN); Training,Training
+2de2414cdf2e,Big Mart Sales Prediction Project Tutorial,In this Step-by-Step Big Mart Sales Prediction Tutorial you…,Injemamul Irshad,Sales,Sales
+3a6a8ae918b5,How to Run PostgreSQL and pgAdmin Using Docker,PostgreSQL administration made easy with Docker,Mahbub Zaman,Administration; Docker; PostgreSQL,General Management and Administration
+15293c152a15,AI in Social and Content Marketing in 2021: Real-Time Use Cases and Applications,Working applications of artificial intelligence in social and content marketing,Radhika Madhavan,Artificial Intelligence (AI); Content Marketing,Marketing
+9038ce5d4e4b,Determined — A Batteries-Included Deep Learning Training Platform,"Focus on building models, not…",Angela Jiang,Deep Learning; Platform; Training,Training
+76f210a1df5d,Creating a custom Dataset and Dataloader in Pytorch,"Training a deep learning model requires us to convert the data into the format that can be processed by the model. For example the model might require images with a width of 512, a height of 512, but the data we collected contains images…",Vineeth S Subramanyam,Dataset; Deep Learning; Image; PyTorch; Training,Training
+bb0698ee8f44,Visualizing Mathematical Equations and Operations,Capture the Essence of an Equation and Solve it Visually by Using Mathematical Graphs,Kasper Müller,Graph,Manufacturing/Operations
+d89852c2bf28,DeepMind’s Population Based Training is a Super Clever Method for Optimizing Neural Networks,,Jesus Rodriguez,Neural Network; Population; Training,Training
+ef78915ee84f,Why You Should Ditch Your In-House Training Data Tools (And Avoid Building Your Own),,Ulrik Stig Hansen,Training,Training
+445c5911e2f6,Sales forecasting in retail: what we learned from the M5 competition,,Maxime Lutel,Competition; Forecasting; Retail; Sales,Sales
+aaf17e2d1e1,How to Speed up Scikit-Learn Model Training,Scikit-Learn is an easy to use Python library for machine learning. However…,Michael Galarnyk,Machine Learning; Python; Scikit-learn; Training,Training
+dd3b47c10ba3,Role of AI in Integrating Sales and Marketing,"In today’s age, we are surrounded by Artificial…",protonAutoML,Artificial Intelligence (AI); Marketing; Sales,Sales; Marketing
+f53e0e14c9c9,Big Data for Justice,An open-access dataset of 80 million Indian legal case records,Development Data Lab,Big Data; Dataset; Microsoft Access,Legal
+bdd94022f987,How To Get Live Forex Data With 2 Lines Of Python Code,The latest release from Yahoo Finance API for…,Sajid Lhessani,Application Programming Interface (API); Finance; Python,Accounting/Finance
+51336e4ad51a,Floating Point Numbers Are Weird in Python — Here’s How To Fix Them,Handling floating-point operations…,Guillermo Martínez Espina,Python,Manufacturing/Operations
+dc4be70b1844,Training Forecasting Models on Multiple Time Series with Darts,,Julien Herzen,Forecasting; Time Series; Training,Training
+fe2dfa755b74,Autonomous Self,“Civilization advances by extending the number of important operations which we can perform without thinking about them.” ,Bryan Johnson,,Manufacturing/Operations
+847011228085,How Happy is the World? Just Ask Spotify,"How Spotify‘s API can be used to track global mood, research well-being, increase sales, and more",Will Mcconnell,Application Programming Interface (API); Research; Sales,Sales
+8e6e14e8e08,Customer Churn Prevention Using ML(SyriaTel Communications),,Muhammad Qayyum,Communication,Corporate Affairs/Communications
+2677e25db94e,Cohort Analysis in Python with Pandas,Powerful marketing analytics technique with Pandas in just few…,Evgeniia,Analysis; Marketing Analytics; Pandas; Python,Marketing
+82cbf99bcdda,3 Old School Marketing Techniques That Still Get Results,,Aaron Mitchell,Marketing,Marketing
+c8d1e3ba0db6,NLP Zero to One: Deep Learning Training Procedure (Part 4/30),"Back-propagation, Loss Functions and…",Kowshik chilamkurthy,Deep Learning; Natural Language Processing (NLP); Training,Training
+2ad63e62a6c7,Insight Marketing and a Misunderstanding Jobs,"Jobs, Steve Jobs.",Squeeze the Avocado,Marketing,Marketing
+849438a90d15,7 Must-Know Data Wrangling Operations with Python Pandas,,Soner Yıldırım,Data Wrangling; Pandas; Python,Manufacturing/Operations
+f223072a0242,The Curse of Dimensionality in Finance,In Big Data we often come across when we have more features than the sample data for our…,Abhishek Chikara,Big Data; Finance,Accounting/Finance
+c773ba46db66,Machine learning models for market-beating trading strategies,How to think about training and…,Abhay Pawar,Machine Learning; Market; Training,Training
+24b2c0cb29d4,Trafalgar : a python library to make quantitative finance and portfolio analysis faster and easier,,Santoshpassoubady,Analysis; Finance; Python,Accounting/Finance
+2a8ec1327b5,All Pandas groupby() You Should Know for Grouping Data and Performing Operations,Pandas tips and…,B. Chen,Pandas,Manufacturing/Operations
+6832255d55a5,Data Analytics & ML in Banking & Finance,Data Analytics & ML for Finance Sector,Tech in 3,Banking; Data Analytics; Finance,Accounting/Finance
+ca04e8235b12,What is A.I. — And Why Should Marketing Experts Care?,,Aleksandra Hadzic,Marketing,Marketing
+e604528bd30a,Bias & Variance- The Ultimate Trade-Off,In every supervised machine learning algorithm our model learns from training data.,Varun Bhatia,Machine Learning Algorithm; Semi-supervised Machine Learning; Supervised Machine Learning; Trade; Training; Unsupervised Machine Learning,Training
+8c83d17bb9dc,Framework for a successful Continuous Training Strategy,When should the model be retrained? What data…,Or Itzary,Training,Training
+9da03aea47b8,Achieving Optimization in Supply chains using ML,"Today, the field of Machine Learning which is a…",Abhishekgovekar,Machine Learning,Supply Chain and Logistics
+a8808ebf746c,Pytorch Training Tricks and Tips,Tricks/Tips for optimizing the training of your deep learning model…,Saketh Kotamraju,Deep Learning; PyTorch; Training,Training
+177b607d7822,The Future of Data Through the Eyes of Gen-Z,"By Mikaela Ergas-Lenett, Operations & Education Manager @ Data Culture",Data Culture,LeNet,Manufacturing/Operations
+563160a7f846,A Beginner’s Guide To Regular Expression Operations In Python,,Jason LZP,Python; Regular Expressions,Manufacturing/Operations
+d48ca870ff5b,"When we change the efficiency of knowledge operations, we change the shape of society.",,Aviv Ovadya,,Manufacturing/Operations
+8a19250e5f9b,How to Legally Scrape the Web for Your Next Data Science Project,A quick introduction to web scraping…,Madison Hunter,Data Science; Web Scraping,Legal
+f6a00b92b868,"Hands-on Distributed Training with Determined AI, a Breakthrough Algorithm, Coded Bias… and More!",,Towards AI Team,Algorithm; Artificial Intelligence (AI); Training,Training
+4972b8c42c5b,Comment financer sa formation data ?,Vous vous intéressez aux métiers de la data et de l’IA ou vous voulez tout simplement vous…,DATAROCKSTARS,Finance,Accounting/Finance
+4f73f0593071,Optimizing CatBoost Performance,Tricks to Improve Machine Learning Training Performance by Up to 4x,Kirill Shvets,CatBoost; Machine Learning; Training,Training
+88dd525666fd,Training Faster R-CNN Using TensorFlow’s Object Detection API with a Custom Dataset,,Towards AI Team,Application Programming Interface (API); Convolutional Neural Network (CNN); Dataset; Object Detection; R; TensorFlow; Training,Training
+e1cb25f6db29,Training Transformers at Scale With PyTorch Lightning,"Introducing Lightning Transformers, a new…",PyTorch Lightning team,PyTorch; Training; Transformer,Training
+8893e438b7ac,The Beginning of Infinite Data: Generating Infinite Training Data for Computer Vision,,Lina Avancini Colucci,Computer Vision; Training,Training
+a5046c1f5094,10 Deadly Sins of ML Model Training,These mistakes are easy to overlook but costly to redeem,Sandeep Uttamchandani,Training,Training
+a6e7047d7ba1,Geopandas Hands-on: Geospatial Relations and Operations,Tutorial on how to deal with geospatial…,Juan Nathaniel,,Manufacturing/Operations
+3981600f9e56,How OpenAI Uses Energy Based Models to Generate Training Datasets,A new research shows how to use…,Jesus Rodriguez,Dataset; Research; Training,Training
+624614a2429b,Extract Email Attachment using AWS,Creating possibilities to perform ETL operations using AWS,Sandeep Madamanchi,Amazon Web Service (AWS); Email; Extract Transform Load (ETL),Manufacturing/Operations
+96335940b416,How Artificial Intelligence Is Shaping Modern Marketing,,"Ryan M. Raiker, MBA",Artificial Intelligence (AI); Marketing,Marketing
+5ed2dad99b2f,Why I Decided to Study Data Science After 10 Years in Marketing,,Jelani Thomas,Data Science; Marketing,Marketing
+6b3249e0eb61,How Data Scientists Can Reduce CO2,Optimize operations by shifting loads in time and space,Thomas Olavson,,Manufacturing/Operations
+fafd52e2d4a,Machine Learning in Alteryx with PyCaret,A step-by-step tutorial on training and deploying machine…,Moez Ali,Alteryx; Machine Learning; Training,Training
+4eef7521d5a3,Deploy Thousands of Models on SageMaker Real-Time Endpoints with Automatic Retraining Pipelines,,Emily Webber,,Training
+d6374d2f4635,Explainable AI: Physics in Machine Learning?,How constraining your ML models with physical principles…,Juan Nathaniel,Artificial Intelligence (AI); Machine Learning; Physics,Training
+97769b4aaa3f,Quality > Quantity: Cleaning Noisy Datasets Using Training Dynamics,A look at a recent paper that…,Tanmay Garg,Dataset; Training,Training
+c41c421ad842,Bert-Large Training on the IPU explained,Graphcore engineers explain how they implemented and…,Graphcore,Training,Training
+775339ef9027,12 Use Cases of AI and Machine Learning In Finance,,Maruti Techlabs,Artificial Intelligence (AI); Finance; Machine Learning,Accounting/Finance
+4ccdcaf01f0c,Train all Classification or Regression models in one line of Python Code,Automated model training with…,Satyam Kumar,Classification; Python; Regression; Training,Training
+aef8218842bb,LyftLearn: ML Model Training Infrastructure built on Kubernetes,,Vinay Kakade,Kubernetes; Training,Training
+24023501104f,Faster Machine Learning Training with a GPU or TPU,Google Colab can access any public Jupyter Notebook…,"Bruce H. Cottman, Ph.D.",Google Colaboratory; Graphics Processing Unit (GPU); Jupyter Notebook; Machine Learning; Microsoft Access; Training,Training
+d75e43ac98d2,Machine Learning and the Coming Transformation of Finance,AI Can Crush Fraud and Transform Trading But…,Daniel Jeffries,Artificial Intelligence (AI); Finance; Machine Learning; Transformer,Accounting/Finance
+970a085bafce,Building a Product Recommendation System with your Sales Data,End to End Guide from Data to Deployment,Eric Yang,Recommendation System; Sales,Sales
+e5ac9bf2ad27,GPUs Are Fast! Datasets Are Your Bottleneck,Learn how you might be bottlenecking your training because…,William Falcon,Dataset; Training,Training
+f98778168c45,Google’s FNet: Mixing Tokens with Fourier Transforms,Speeding up Transformers training speed by up to…,Mostafa Ibrahim,Training; Transformer,Training
+d0088e80a026,AI models as Microservices — Training to production,,Amit Gupta,Artificial Intelligence (AI); Training,Training
+8e5e88c89120,Quantra — a Python coding platform to learn quantitative finance,A good place to start your adventure…,Eryk Lewinson,Coding; Finance; Platform; Python,Accounting/Finance
+81d1d3242498,Using A Machine Learning Model For Predictions,"Machine Learning is a branch in the field of Artificial Intelligence. It is based on training data and currently, it is widely used to identify useful patterns and make decisions from data.",Gayavi Alahakoon,Artificial Intelligence (AI); Azure Machine Learning; Training,Training
+827d5b81465a,5 Must-Know Operations on Python Sets,Sets are one of the core data structures of Python,Soner Yıldırım,Data Structure; Python,Manufacturing/Operations
+f754deee49fb,Developing a Multi-Layer Perceptron for a Bank Marketing Dataset,Predicting Whether a Client Will…,Dilini Peiris,Dataset; Marketing; Perceptron,Marketing
+e7a5d47c448b,Walmart Sales Time Series Forecasting using Deep Learning,,Abhinav Dubey,Deep Learning; Sales; Time Series Forecasting,Sales
+2291af3c5434,My Machine Learning model Failed. Learnings.,Best practices to keep in mind while training and…,Mudit Tiwari,Machine Learning; Training,Training
+98633371ea7b,Why & how to market yourself as a data engineer,Understand the values of marketing ourself and how to…,Mehdi Ouazza,Market; Marketing,Marketing
+849cca54a301,Deep Neural Networks into Deeper,The toughest job in the field of Data Science is training DNN,Akshith Kumar,Data Science; Neural Network; Training,Training
+98da41b38b50,Must-Know 4 Quant Finance Concepts For Data Scientists,Combining Quant Finance And Data Science Together,Farhad Malik,Data Science; Finance,Accounting/Finance
+aaad00533168,How to Train BERT,Quick-fire guide to training a transformer,James Briggs,Training; Transformer,Training
+59d09a430fae,Enterprise ML — Why building and training a “real-world” model is hard,A Gentle Guide to the…,Ketan Doshi,Training,Training
+e4670c0d92f2,7 Common File System Operations You Can Do With Python,Use the OS and Pathlib modules to automate…,Frank Andrade,File System; Python,Manufacturing/Operations
+1ccae6eaa782,Analysis of Bank Marketing Dataset By using Support Vector Machine (SVM),,Sachchithananthan Thanusan,Analysis; Dataset; Marketing; Support Vector Machine (SVM),Marketing
+bb3b28bb9bbb,Build a Support Vector Machine (SVM) for a banking-marketing dataset,,Jayashan Thivanka,Banking; Dataset; Marketing; Support Vector Machine (SVM),Marketing
+1e55869336d4,Fine-Tuning Transformer Model for Invoice Recognition,A step-by-step guide from annotation to training,Walid Amamou,Training; Transformer,Training
+98fffc169f36,Sales Analytics: Churn Analysis and Prediction with PySpark,Basic data visualization and prediction…,Lorentz Yeung,Analysis; Analytical; Data Visualization; PySpark; Sales; Visualization,Sales
+7874d06b4d59,Predicting the Success of a Bank Marketing Campaign,,Sangramsing Kayte,Marketing,Marketing
+c7008581136d,NumPy Journey to Einstein Summation Convention (einsum) for Basic Matrix Operations,,Habib Rahman,NumPy,Manufacturing/Operations
+b02e2d7f0d06,5 Super Productive Things To Do While Training Machine Learning Models,Excruciatingly long waits…,Bex T.,Machine Learning; Training,Training
+bc13421d2ed5,Convert your Emotion Recognition Notebook into an API without extra code,Training an Emotion Recognition in a Jupyter Notebook and converting it into a Flask API project without additional code using…,Sushanti Kerani,Application Programming Interface (API); Jupyter Notebook; Training,Training
+5bf41e230c71,Why Is It Important To Tune The Parameters Of SVM Model,The goal of the SVM algorithm is to use a training set of…,protonAutoML,Algorithm; Support Vector Machine (SVM); Training,Training
+62c1c23177fd,mplfinance — matplolib’s relatively unknown library for plotting financial data,Including quick ways…,Eryk Lewinson,Matplotlib,Accounting/Finance
+66ba79fc7c1c,I Left Communications Engineering for Data Engineering — Here is my Journey,After two data science…,Ezz El Din Abdullah,Communication; Data Engineering; Data Science; Telecommunications Engineering,Corporate Affairs/Communications
+b3f78ff8a86b,The 2021 Finance Analytics Neural Map — Brought to you by Christian Martinez and The Financial Fox,,Christian Martinez Founder of The Financial Fox,Analytical; Finance,Accounting/Finance
+bd306957faa9,"Training Sparse, Large-Scale Language Models on Graphcore’s IPU",Exploring the potential of sparse…,Graphcore,Training,Training
+2de0554f3b9d,Machine Learning in Marketing!!,,Tech in 3,Machine Learning; Marketing,Marketing
+fb53975be754,A Complete Guide to Building a Marketing Mix Model in 2021,Fully understand what a Marketing Mix Model…,Terence Shin,Marketing,Marketing
+cc326dc4e6ee,14 Pandas Operations That Every Data Scientist Must Know!,Complete guide on fourteen of the most…,Bharath K,Pandas,Manufacturing/Operations
+11ed11a5e893,How to Label Text Classification Training Data — With AI,Label your training data with a zero-shot…,Eric Fillion,Artificial Intelligence (AI); Classification; Training,Training
+649b41574160,Training AI to Score Olympic Events,The 2021 Tokyo Olympics are here. Let’s see how we can use AI to…,Suhyun Kim,Artificial Intelligence (AI); Training,Training
+d9d6723a73f0,How Machine Learning is Amplifying Sales for Businesses,Sales teams are continuously looking for ways to improve their…,protonAutoML,Machine Learning; Sales,Sales
+bba5ddd6d89c,"On cyber-attacks, supply chains, and Simone Biles","In an increasingly connected world, it’s no surprise…",Skanda Vivek,,Supply Chain and Logistics
+76b632fc801b,R Equivalent of 7 Common Pandas Operations,Hands-on tutorial for Pandas and data.table libraries,Soner Yıldırım,Pandas; R; Table,Manufacturing/Operations
+54a438e9ea93,Mastering a Function in 10 Steps: Pandas Groupby,One of the most frequently performed operations in…,Soner Yıldırım,Pandas,Manufacturing/Operations
+6bb5165e67e6,How I became a Data Engineer from scratch,I will explain how I left the Sales field without data skills to become a Data Engineer.,Lucaspressi,Sales,Sales
+838beb4c4b5b,How does Big Data Algorithms help Marketing Data Analysts,Data-driven marketers use algorithms and machine learning…,protonAutoML,Algorithm; Big Data; Data Analysis; Machine Learning; Marketing,Marketing
+de7dfc361b4f,How to Communicate More Effectively as a Data Scientist,What I’ve learned from Effective Training…,👩🏻‍💻 Kessie Zhang,Training,Training
+c7a5dd71f232,From SQLite to Pandas — 7 Essential Operations You Need to Know,Trust me — It’s pretty straightforward.,Yong Cui,Pandas; SQLite,Manufacturing/Operations
+cf2669f425bd,Speed up sklearn model training,Sci-Kit Learn is a machine learning library for Python. This library contains ML tools which are…,vamsi,Azure Machine Learning; Python; Scikit-learn; Training,Training
+7f04e182c2df,Optimizing TensorFlow Training Time for Better Performance,Maximize your accelerator utilization for…,Sascha Heyer,TensorFlow; Training,Training
+c1ce47863350,Free GPUs for Training Your Deep Learning Models,Yes you heard it right. It’s free.,Edwin Tan,Deep Learning; Training,Training
+270634191f76,How I made $3333 with my first ever Data Science online course in 5 months with zero marketing spend,,Ramsri Goutham,Data Science; Marketing,Marketing
+bbee738d0ec8,Introducing our New Manufacturing Facility and Test Track,,Nuro Team,Manufacturing,Manufacturing/Operations
+8b3bf9c91057,What is Operations Research?,A Comprehensive Introduction to Operations Research and its Applications,Aarav Patel,IT Operations; Operations Research,Manufacturing/Operations
+47aa058b96e3,Olympians in engineer’s eye,The concept of training is not unique to pro-athletes but also applies…,Aerin Kim,Training,Training
+74fefc40f001,"Implementing a Neural Net in CUDA From Scratch, Part 6: Training",Training a neural network using what…,Borna Ahmadzadeh,.NET Framework; Neural Network; Training,Training
+d6e3835ae18a,Using Data for Marketing. One-to-one Marketing,And the rise of Amazon,Squeeze the Avocado,Marketing,Marketing
+436425efef7b,Differential Plasticity,Paper Summary: “Differentiable plasticity: training plastic neural networks…,Dickson Wu,Elasticity; Neural Network; Plastics; Training,Training
+514821640016,MACHINE LEARNING TRAINING IN CHENNAI,Are you seeking a professional platform to learn the DATA SCIENCE Concepts? Then MACHINE LEARNING TRAINING IN CHENNAI is the right place for that. Our training methods are always blended with both theory and practical. We always give more importance to particles…,EDON LIVE,Data Science; Machine Learning; Platform; Training,Training
+89e2df4bf1f6,DATA SCIENCE TRAINING IN CHENNAI,"We offer innovative learning for everyone. Whether you’re an expert or beginner, staying up-to-date with the latest technologies is a must. We will provide training to the students with Advanced-level topics and an understanding of the key role that DATA SCIENCE plays in…",EDON LIVE,Data Science; Training,Training
+9f245ce7e44b,Risk Management — The Defender of Trading Capital.,Best Practices & Tips on Proper Risk Management.,Sofien Kaabar,Risk Management,Risk Management
+e1e185aa204d,How AI is revolutionizing the manufacturing industry,Find out how Artificial Intelligence (AI) is…,Thomas T. Chung,Artificial Intelligence (AI); Manufacturing,Manufacturing/Operations
+cee94f2f3858,Artificial Intelligence in Finance: Opportunities and Challenges,,Eryk Lewinson,Artificial Intelligence (AI); Finance,Accounting/Finance
+e2125fa795f9,9 Outstanding Reasons to Learn Python for Finance,"Yep, Python is good for finance, too",Zulie Rane,Finance; Python,Accounting/Finance
+4d66e4df0c61,In Praise of Natural Variance,"Variance and randomness have no PR budget, no fundraisers, no business development, no scientists, no scare value, and no sex appeal. While the climate industrial complex hums along to the tune of almost $2 trillion per year and the IPCC puts out gorgeous-looking documents…",David Siegel,Budget; Business Development; Public Relations (PR),Business Development
+697e079b3fd0,New York City Citywide Annualized Property sales Exploratory Data Analysis(EDA),,Ahmed Mamdouh,Exploratory Data Analysis; Property; Sales,Sales
+6ce5ecf00fb2,"4 ""pure product"" investments to improve your Machine Learning feature's quality","The quality of Machine Learning(ML) features is all about model design and training, right? Well yes… however, ML quality is not the sole responsibility of data scientists but a…",Cyril Le Mat,Design; Investment; Machine Learning; Training,Training
+8d7d08e3ab54,How Uber uses machine learning to achieve hyper-growth in sales.,,Zach Wolpe,Machine Learning; Sales,Sales
+9738472dd36d,Identify your valuable customers,How do you carry out your marketing activities towards your current…,Nafiz ALTAY,Marketing,Marketing
+d07694852606,Medical Image Pre-Processing with Python,An overview of preprocessing a dicom image for the training…,Esma Sert,Image; Processing; Python; Training,Training
+d0dd81f4e794,Introduction to Marketing Mix Modeling in Python,Which advertising spendings are really driving your…,Dr. Robert Kübler,Advertising; Marketing; Modelling; Python; Rally,Marketing
+ed021bfdd042,Content Marketing Analysis with NLP: Evernote vs Pocket,,Fabio Chiusano,Content Marketing; Market Analysis; Natural Language Processing (NLP),Marketing
+f65eeedd83e7,How Computer Vision is accelerating Automation in Manufacturing,,Shireen Mirza,Automation; Computer Vision; Manufacturing,Manufacturing/Operations
+1468686297ba,Numpy Array Operations,Let’s take a look on to 5 Numpy array functions which could make our job much…,Jai Ganesh Baskar,Array; NumPy,Manufacturing/Operations
+2134b22d0b0d,"30 Days of Finance Transformation with Christian Martinez, Founder of The Financial Fox",,Christian Martinez Founder of The Financial Fox,Finance,Accounting/Finance
+a26990e15b10,AI’s Legal and Ethical Implications with Sandra Wachter,521,The TWIML AI Podcast,Artificial Intelligence (AI),Legal
+d82cbd7dfc68,UMass Amherst & Google Improve Few-Shot Learning on NLP Benchmarks via Task Augmentation and Self-Training,,Synced,Natural Language Processing (NLP); Training,Training
+fc9dd9fceaa1,How to Measure Quality of AI Training Data,Training data quality is an evaluation of a data set’s fitness to serve its purpose…,Shireen Mirza,Artificial Intelligence (AI); Training,Training
+62b67e773614,Ridge Regression,"One way to reduce overfitting is to regularize the model, i.e., to constrain it. The fewer degrees of freedom it has, the harder it will be for it to overfit the data. For a linear model, regularization is typically achieved by constraining the weights of the model.",Ning Chen,Degree of Freedom; Overfitting; Regression; Ridge Regression,Training
+66d5bf31ae86,Training a model on Dataleon platform,learning (determining) good values for all the weights and the,Dataleon,Platform; Training,Training
+fd644e4cb060,Python — Extract Data from Salesforce Marketing Cloud (ExactTarget),,Mukesh Singh,Marketing; Python; Salesforce,Sales; Marketing
+1f79e1f90ea5,Start Here- Data Analytics,Maybe you are an experienced sales manager who is just interested in the buzz around ANALYTICS WORLD or a recent…,Ankit Sharma,Data Analytics; Sales,Sales
+3c36f62f5a46,PCA,"Principal Component Analysis (PCA) is the most popular dimensionality reduction algorithm by far. First it identifies the hyperplane that lies closest to the data, and then it projects the data onto it. Before we can project the training set onto a lower-dimensional hyperplane, we first need to choose the right…",Ning Chen,Algorithm; Dimensionality Reduction; Principal Component Analysis (PCA); Training,Training
+abdf384c1fdc,Lawyers Racing for Legal Tech Advantage,Is there a Digital Transformation stampede out there? Yes…,Bill Bispeck,,Legal
+b599ab68c88a,Data Science Techniques: How to Predict the Sales With Multiple Linear Regression,Or anything really!,Anh Le,Data Science; Multiple Linear Regression; Nonlinear Regression; Regression; Sales,Sales
+cc28f57d5107,Python Libraries to Add to Your Civil Engineering Toolbelt,,Jakub Rybicki,Civil Engineering; Python,Civil Engineering
+1a92f21c5cec,Directory illegal Entry Magic,"A hacker manifest Real-World Scenarios, Labs, and Attacks",c0d3x27,Sentry,Legal
+1a10d9934a4e,This is Why Data Product Management is Easier Than it Sounds,While project management is much more…,Moinakpyne,Product Management; Project Management,Project/Program Management
+2fb57d661a22,The Clever Parallel Training Architecture Microsoft and NVIDIA Used to Build Megatron-Turing NLG,,Jesus Rodriguez,Architecture; Microsoft; Training,Training
+3dd174850713,"Training BPE, WordPiece, and Unigram Tokenizers from Scratch using Hugging Face",Comparing the tokens…,Harshit Tyagi,Scratch; Training,Training
+620d04a7f792,Exploratory Data Analysis on Supermarket Sales Dataset,,Zeeshan Haider,Dataset; Exploratory Data Analysis; Sales,Sales
+70a7305d4838,mBART50: Multilingual Fine-Tuning of Extensible Multilingual Pretraining,Train multilingual machine…,Mattia Di Gangi,,Training
+80dafe1ee8ef,Machine Learning for Temporal Data in Finance,How machine learning methods are evolving to address the…,Sam Sharpe,Finance; Machine Learning,Accounting/Finance
+c592ab889be0,File and Directory Management in Python: 10 Essential Operations,Python developers don’t need to open…,Yang Zhou,Management; Python,Manufacturing/Operations
+3278907702f3,Natural Language Processing Tasks,NLP is a group of operations consisting in processing mainly textual…,Patrick Meyer,Natural Language Processing (NLP),Manufacturing/Operations
+da7ee5dbf0d8,Decision-making methods for UX and beyond,Multi-criteria decision making methods from Operations…,Eric Rogler,Decision Making; User Experience (UX),Manufacturing/Operations
+5ef6f0c5bc0d,Controlling Neural Network training from Web Interface,,Parth Soni,Neural Network; Training,Training
+a6e975155202,Knowing Pandas But Not SQL? Understand Common SQL Usages From Pandas Operations,From Pandas to SQL,Yong Cui,Pandas; Structured Query Language (SQL),Manufacturing/Operations
+9a8a75d6b7ea,Gradsflow — Democratizing AI with AutoML,GradsFlow is an open-source AutoML & Model Training Library…,Aniket Maurya,Artificial Intelligence (AI); Training,Training
+93370404a54b,Cost-Sensitive Learning for Imbalanced Data,Training good models that deal with imbalanced data is…,Krzysztof Ograbek,Training,Training
+2d06f83e99c8,How can I use artificial intelligence (AI) for marketing?,We answer the question of how you can use…,Thomas T. Chung,Artificial Intelligence (AI); Marketing,Marketing
+623bfc0c7d10,"My Data Science Journey: distance learning, on the job training, and lockdown.",,Dave Anderson,Data Science; Training,Training
+73ca9741d3e0,Facebook AI’s NormFormer Employs Extra Normalization to Significantly Improve Transformer Pretraining,,Synced,Artificial Intelligence (AI); Facebook; Transformer,Training
+78df161214aa,Full Deep Learning Portfolio Project Part 1,Systematically Find the Optimal Training Strategy for the…,Patrick Brus,Deep Learning; Training,Training
+9cf83595cdf7,"Deep Learning For Computer Vision, Finance & Challenges Ahead",Deep Learning For Computer Vision,Alexander Fleiss,Computer Vision; Deep Learning; Finance,Accounting/Finance
+b946e00fa6d2,How Databand helps logistics platforms like Shipper meet their customer SLAs,,Eitan Chazbani,Logistics; Platform,Supply Chain and Logistics
+c02df7a2084e,Machine Learning May Let Us Talk to Animals,The Earth Species project is using AI to decode animal communications,B J Robertson,Artificial Intelligence (AI); Communication; Machine Learning,Corporate Affairs/Communications
+c754514a49da,Data Strategy for Our Data Science SaaS Business Model,"We combine conventional market research methodologies, data science analytical solutions and back-end deep linking to address a wider scope of the client’s marketing challenges and to optimise their data exploration needs.",Liu Huimin,Analytical; Business Model; Data Science; Market Research; Marketing Research; Research Methodology; Software as a Service (SaaS),Marketing
+e8acf4950a16,NIST’s AI Risk Management Framework Should Address Key Societal-Scale Risks,"Authored by a group of scholars from the University of California, Berkeley: Anthony Barrett, Thomas Krendl Gilbert, Jessica Newman, Brandie Nonnecke, and Ifejesu Ogunleye.",Charles Kapelke,Artificial Intelligence (AI); Risk Management,Risk Management
+f77779a25459,Demand estimation using random forests,Bicycle sales demand estimation,Samyuktha Mantri,Random Forest; Sales,Sales
+9b7156ddc71f,Data Science in Marketing : Customer Segmentation with Python — Part 2,,Meydina Rahmawati,Data Science; Marketing; Python,Marketing
+c954c701b7ab,"As a Finance and Accounting professional, should I learn Data Analytics?",,Christian Martinez Founder of The Financial Fox,Accounting; Data Analytics; Finance,Accounting/Finance
+ce6a04fc6dee,Data Science in Marketing : Customer Segmentation with Python — Part 1,,Meydina Rahmawati,Data Science; Marketing; Python,Marketing
+eac425be87aa,Travelling salesman problem with reinforcement learning,,Sara Ghibaudo,Reinforcement Learning,Sales
+8d2f25262440,This New Data Will Make You Rethink Your Role In Accounting & Finance,,Zachary Wolinsky,Accounting; Finance,Accounting/Finance
+df833310df9d,Adobe’s Sensei AI platform and Video Marketing,"The use of big data, cloud storage, algorithm advancement, and elastic…",Sajjad Hussain,Algorithm; Artificial Intelligence (AI); Big Data; Cloud Storage; Jelastic; Marketing; Platform; Video,Marketing
+2b113c6b60d9,Optimize ML modeling using a timing decorator,Record the execution time of ML training using timing…,Tirthajyoti Sarkar,Modelling; Training,Training
+2c19db9864ba,"DenseNet, Custom Training Loop | RAdam & Lookahead— Part 2",,Kaan,Training,Training
+a1030d08ee24,Applying Machine Learning in Finance,Note: This story was first published in July 2021.,UCL Artificial Intelligence Society,Finance; Machine Learning,Accounting/Finance
+fb8cd7b7c0e2,Regularization!,This blogpost will help you to understand why regularization is important in training the…,Ajinkya Mishrikotkar,Training,Training
+26e083eece40,Empowering sales and marketing teams with machine learning algorithms,,Asim Siddiqui,Machine Learning Algorithm; Marketing; Sales,Sales; Marketing
+4edfee7c9cbc,Machine Learning for Retail Sales Forecasting — Features Engineering,Understand the impacts of…,Samir Saci,Feature Engineering; Forecasting; Machine Learning; Retail; Sales,Sales
+feecbf5d55ae,Sankey visualization: managing energy and manufacturing,A brief start about Sankey,Alpana,Manufacturing; Visualization,Manufacturing/Operations
+615a425140cd,What got me interested in quantum computing — a chemical engineering perspective,,Davindra Tulsi,Chemical Engineering; Computing,Chemical Engineering
+7deddb424862,How to sort when M.L model behaves well on Training data but behaves poorly on training data,,rohin kundal,Training,Training
+965c5d808c2c,What is the difference between Training and Testing Data in Machine Learning,,Mapendo Tech Team,Machine Learning; TestNG; Testing; Training,Training
+a7ff613ddfea,Top 25 Finance AI Startups in 2021,"Artificial intelligence is growing, and no industry or field appears to be immune to its influence…",Reetika,Artificial Intelligence (AI); Finance,Accounting/Finance
+ac995cf5d3cd,Python: Debugging Data Operations Effectively with Breakpoint(),,Data Products,Debugging; Python,Manufacturing/Operations
+7de5f960b383,What is Deep Learning?,"Deep Learning is a technique that is a subset of machine learning (ML), that refers to training of Neural Networks…",Guneet Kohli,Deep Learning; Machine Learning; Neural Network; Training,Training
+85e0e49d98b9,Product developers’ guide to model training — Part 1: Qualitative data,As a critical part of training…,Nathaniel Tjandra,Training,Training
+97e63c584716,Automate Your Machine Learning Training Process with TPOT,Stop rewriting the same code for model…,Travis Tang,Machine Learning; Training,Training
+38823e8f508a,Product developer’s guide to model training: Scaling Numerical data,While machines may have an easy…,Nathaniel Tjandra,Training,Training
+7f4fcfb58355,The Modern Data Stack: An Overview,"This week, the team at Inclined is leading a training on the components of the modern data stack…",Sean Larkin,Training,Training
+c070d43c7dd6,Introducing LightningCLI V2 — Supercharge your Training,The Lightning 1.5 release introduces CLI V2…,PyTorch Lightning team,Training,Training
+b9cfd8485ed2,"Making automated, flexible manufacturing a reality with robotics",Our investment in Machina Labs & how…,Sam Smith-Eppsteiner,Investment; Manufacturing; Robotics,Manufacturing/Operations
+5ddf3e30d301,AWS DeepRacer: How to start training agents in the AWS DeepRacer League using Reinforcement Learning and advance to…,,Samsontontoye,Amazon Web Service (AWS); Reinforcement Learning; Training,Training
+ae64a4720bd1,Finding why Pytorch Lightning made my training 4x slower.,,Florian Ernst,PyTorch; Training,Training
+a38e03a2a4ea,Time-Series Forecasting With Orbit,User guide to deploying Uber’s new model for sales forecasting,Molly Liebeskind,Sales; Time Series Forecasting,Sales
+3cedaff53f16,AI for Supply Chain Management,"Artificial intelligence has the power to transform many industries, including international supply chains. When we think of digital transformations to a supply chain ecosystem, there are a few key principles to consider:",Roshan Srinivasan,Artificial Intelligence (AI); Change Management; Supply Chain Management; Supply Chain Risk Management; Transformer,Supply Chain and Logistics
+7cf54b19adc0,7 DevOps skills for Machine Learning Operations,Lessons learned from successful MLOps implementation,Ricardo Mendes,DevOps; MLOps; Machine Learning,Manufacturing/Operations
+6b728cd46abc,Aplicando Lógica Fuzzy na Análise Financeira de Crédito,,CRISLÂNIO MACÊDO,,Accounting/Finance
+7fd5e8bba624,4 Tricky Data Manipulation Operations With Python Pandas,Pushing the limits,Soner Yıldırım,Data Manipulation; Pandas; Python,Manufacturing/Operations
+da610ec5647,Why Supply Chain Management Needs Machine Learning,,Maruti Techlabs,Change Management; Machine Learning; Supply Chain Management; Supply Chain Risk Management,Supply Chain and Logistics
+9403d480a578,Training a CNN to detect Face Masks,"We often take things for granted, there’s always the famous saying",Dev Shah,Convolutional Neural Network (CNN); Training,Training
+ec82f2de2c02,Two Sigma: Deep Learning for Sequences in Quant Finance,,T Z J Y,Deep Learning; Finance; Sequence,Accounting/Finance
+5270e70a2f5f,Automatic Labelling of Text for NLP,Label text without training any model!,Abhishek Pawar,Natural Language Processing (NLP); Training,Training
+81a0e98289f6,Guide to model training: Part 4 — Ditching datetime,Time series data is collected abundantly. It…,Nathaniel Tjandra,Time Series; Training,Training
+92b6f9a98ff9,Top 10 Python operations that every aspiring Data Scientist should know,,Anmol Tomar,Python,Manufacturing/Operations
+27dfaafb5f0b,Improving Customer Support with a Machine Learning-based Receptionist,,Alan Godoy,Azure Machine Learning,Customer Support/Operations
+3651fd81eeeb,Guide to model training: Part 5 — Reliable remarketing,Many invest heavily into remarketing strategies…,Nathaniel Tjandra,Marketing; Training,Training; Marketing
+a06944eb90d0,How to Unlock the Power of Clustering to Identify Target Customers,And direct your marketing…,Xinqi Lin,Clustering; Marketing,Marketing
+6f284269b195,Exploratory Data Analysis (EDA) w/Market Sales Dataset,,Ömer Yasir Küçük,Dataset; Exploratory Data Analysis; Market; Sales,Sales
+e028a21a269e,MLOps Beyond Training: Simplifying & Automating the Operational Pipeline,,yaron haviv,Automation; MLOps; PipelineC; Training,Training
+fe7a7b8ee8d7,Considering Labelbox? Consider Diffgram Too.,Need a Data Labeling or Training Data Platform? Thinking…,Anthony Sarkis,Platform; Training,Training
+fcf4dc5dbe5f,How to Speed Up XGBoost Model Training,,Michael Galarnyk,Training,Training
+ca3f59474971,How to Automatically Generate Python Code for Spreadsheet Operations?,,Virendra Kumar Shrivastava,Python,Manufacturing/Operations
+6c632f85eb87,Guide to model training — Part 7: Save & load,Learn how to import and export training models to share…,Nathaniel Tjandra,Training,Training
+88460d2da2f2,Big Data in Chemical Industry,Chemical engineering has grown significantly as a result of technical advancements and data use. Big data’s…,Namosh Achintalwar,Big Data; Biochemical Engineering; Chemical Engineering,Chemical Engineering
+be8f34ffb092,Artificial intelligence and machine learning in sales forecasting,,Abhishek Kumbhar,Artificial Intelligence (AI); Forecasting; Machine Learning; Sales,Sales
+da1fe59d101d,ExoMiner: NASA’s Deep Neural Network of 2021,Have you heard that NASA (National Aeronautics and Space Administration) recently…,Sagar Sikchi,Administration; Neural Network,General Management and Administration
+2cefe43ab2b2,Accelerating ResNet-50 Training on the IPU: Behind our MLPerf Benchmark,A technical guide on efficient…,Dr. Mario Michael Krell,Training,Training
+c894b7bb6d18,4 Common Designs of Audit Trail — Tracking Data Changes in Databases,Logging is essential for a system,Yang Zhou,Audit; Blogging; Database; Design; SystemC,Audit and Financial/Business Controls
+36c1dd6cfd04,The Evidence Is Critical for Classifying Legal Cases,Identify the evidence to mine the legal reasoning,Vern R Walker,Reasoning,Legal
+d4d0ebe77281,Training a Reinforcement Learning agent to fish in Stardew Valley,,Thiago Lira,Reinforcement Learning; Training,Training
+65c895e83fdf,Why k-fold Cross-Validation is Failing in Finance?,Purge and Embargo,Paul Iusztin,Cross Validation; Finance,Accounting/Finance
+ae0c6d3c904f,Feature Engineering using Keras Lambda Layers for complete training pipeline.,,fernando nieuwveldt,Feature Engineering; Keras; PipelineC; Training,Training
+ae2f08cc8218,End-to-End Attention-Based Machine Translation Model with Minimum Tensorflow Code,This blog post walks through the training and inference of attention-based machine translation using only high level Tensorflow API. It’s a simplified end to end tutorial that aims to…,Eileen Pangu,Application Programming Interface (API); Blogging; Inference; Rule-based Machine Translation; TensorFlow; Training,Training
+e4f6272148ad,Training YOLOv5 custom dataset with ease,"YOLOv5 is one of the most high-performing object detector out there. It is fast, has high…",Luiz doleron,Dataset; Object Detection; Training,Training
+62c3fcd75f69,Pytorch for Beginners💫,Part I: Basic Operations in Tensors,Akash Joshi,PyTorch,Manufacturing/Operations
+712fc39649fe,Snorkel — Programmatically Build Training Data in Python,A Weak Supervision Approach to Label Your…,Khuyen Tran,Python; Training,Training
+ce46d9a3936b,Data Warehousing,Data Warehouse is a collection of data related to a particular subject stored in a way to make the data insightful and to make the retrieval efficient so that the data can be easily used for analytical and visualization purposes. We cannot perform operations on Data Warehouses.,Divyojyoti Ghosh,Analytical; Data Warehouse; Visualization,Manufacturing/Operations
+aec93da33648,Data Mesh Patterns: Immutable Change / Audit Log,Data Mesh uses the “Immutable Change/Audit Log”…,Eric Broda,Audit,Audit and Financial/Business Controls
+adf0d41df0ca,Natural Language to SQL from Scratch with Tensorflow,An end-to-end tutorial of training a machine…,Eileen Pangu,Scratch; Structured Query Language (SQL); TensorFlow; Training,Training
+1612072a025d,Optimize Training and Predicting SK-Learn Models in Python with Sparse Matrices,Train SK-Learn models…,Vatsal,Python; Training,Training
+4d8545b37bdc,"The Data Scientist of the Future, According to Microsoft","Recently, I built a predictive model that will soon produce tremendous value, but I’m not a Data Scientist, nor do I have any formal training in Data Science. This got me thinking; why does so much industry and education exist…",DataExpert,Data Science; Microsoft; Predictive Model; Training,Training
+931910466509,ProphetStor Honors Sales and Technology Partner Evanston Technology Partners and Its CEO Emmanuel Jackson in…,,ProphetStor,Sales; Technology,Sales
+34e2230344fc,The Worrying Problem with Correlation in Finance,How Correlation is Misunderstood by Academics and Industry Practitioners,Rian Dolphin,Correlation; Finance,Accounting/Finance
+b0418b853092,Understanding Federated Learning,"One of the prerequisites for training a machine learning model, is the collection of data. Gathering a…",Aviral Jain,Azure Machine Learning; Data Gathering; Training,Training
+41c990ba5bc4,Pre-training or From scratch for language models?,,Fares Abanmy,Scratch; Training,Training
+4bc6a21e87b8,Social Media Sentiment Analysis In Python With VADER — No Training Required!,Lexicon and rule-based…,Zoumana Keita,Python; Sentiment Analysis; Social Media; Training,Training
+f72d33febe56,Robyn- Shed Light on Marketing Attribution,An overview of Robyn package by Facebook and some practical…,TamarDD,Facebook Ads; Marketing,Marketing
+3ed6c6c96f2e,Understanding how backpropagation works,The backpropagation algorithm is one of the fundamental algorithms for training a neural…,Unajacimovic,Algorithm; Training,Training
+43783b0266d9,STRAGGLERS AND LATENCY IN SYNCHRONOUS DISTRIBUTED TRAINING OF DEEP LEARNING MODELS,,Nir Barazida,Deep Learning; Training,Training
+9f509f7dfbcc,Deepchecks ❤️ Weights & Biases for Testing ML within the Training Workflow,Deepchecks and W&B have…,Itay Gabbay,TestNG; Testing; Training,Training
+7c285a9cf974,Categorizing Customer Support Requests,And how to do it with crowdsourcing,Magdalena Konkiewicz,,Customer Support/Operations
+44c841180566,MITO: Automatic Python Code from Spreadsheet Operations,"Not a Coder? No issue, you can still automate",Dinusha Dissanayake,Python,Manufacturing/Operations
+604caddf6df8,"Facebook’s genocide filters are really, really bad",An AI that can’t recognize its own training data is…,Cory Doctorow,Artificial Intelligence (AI); Facebook Ads; Rally; Training,Training
+8e9f741873c4,From Paralegal to Data Scientist — How I Started My Data Career Without a Quantitative Degree,,Jessie Huang,,Legal
