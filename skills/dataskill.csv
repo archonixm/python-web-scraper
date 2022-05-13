@@ -1,0 +1,32 @@
+Skill,DataSkill
+Machine Learning,AI
+Amazon Web Service (AWS),Cloud Technologies
+Google Cloud Platform (GCP),Cloud Technologies
+Microsoft Azure,Cloud Technologies
+IBM Cloud,Cloud Technologies
+Alibaba Cloud,Cloud Technologies
+Oracle Cloud,Cloud Technologies
+SAP Cloud Platform,Cloud Technologies
+Rackspace Cloud,Cloud Technologies
+VMWare,Cloud Technologies
+DigitalOcean,Cloud Technologies
+Kamatera,Cloud Technologies
+Serverspace,Cloud Technologies
+Linode,Cloud Technologies
+OpenNebula,Cloud Technologies
+Linear Regression,Supervised Machine Learning
+Classification,Supervised Machine Learning
+Na•ve Bayes,Supervised Machine Learning
+Artificial Neural Network (ANN),Supervised Machine Learning
+Convolutional Neural Network (CNN),Deep Learning
+Decision Tree,Supervised Machine Learning
+Gated Recurrent Unit (GRU),Deep Learning
+Generative Adversarial Network (GAN),Deep Learning
+k-means Clustering,Unsupervised Machine Learning
+k-Nearest Neighbour (kNN),Supervised Machine Learning
+Linear Discriminant Analysis (LDA),Unsupervised Machine Learning
+Logistic Regression,Supervised Machine Learning
+Long Short-Term Memory (LSTM),Deep Learning
+Principal Component Analysis (PCA),Unsupervised Machine Learning
+Random Forest,Supervised Machine Learning
+Clustering,Unsupervised Machine Learning

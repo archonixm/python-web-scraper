@@ -1,33 +1,36 @@
-skill,FreeCodeCamp,JMLR,KDnuggets,Medium,Youtube
-AI,1,2,102,686,152
-C++,0,3,1,5,83
-Cloud Technologies,0,0,9,44,79
-Computer Vision,0,0,19,57,75
-Dashboards,0,0,4,40,98
-Data Cleansing / Preparation,0,0,25,12,58
-Database Management System (DBMS),0,0,0,2,80
-Deep Learning,0,5,63,211,100
-ETL,0,0,12,28,78
-Excel,1,0,3,27,148
-Github,0,15,17,42,82
-Graph Theory,0,0,2,4,58
-Hadoop,0,0,1,3,69
-Java,0,0,1,10,88
-JavaScript,12,0,2,29,82
-MATLAB,0,1,1,9,62
-NLP,0,0,74,149,85
-NoSQL,0,0,8,6,63
-Power BI,0,0,0,27,88
-Presentation Skill,0,11,6,16,84
-Python Programming,6,13,202,1486,230
-R programming,1,10,17,125,102
-Regressions,0,44,20,212,93
-Reinforcement,0,8,7,61,87
-SPARK,0,0,2,60,94
-SQL,2,1,37,109,119
-Statistics,0,12,37,82,65
-Supervised Machine Learning,0,1,0,17,45
-Tableau,0,0,2,23,91
-Time Series Analysis,0,0,3,20,37
-Unsupervised Machine Learning,0,1,0,17,45
-Visualizations,2,7,38,153,83
+skill,FreeCodeCamp,JMLR,KDnuggets,Medium,Youtube,Total
+AI,2.0,33.0,206.0,1739.0,410.0,2390.0
+Apache,0.0,0.0,0.0,19.0,39.0,58.0
+C++,0.0,3.0,1.0,6.0,142.0,152.0
+Cloud Technologies,0.0,0.0,10.0,131.0,64.0,205.0
+Computer Vision,0.0,0.0,21.0,67.0,135.0,223.0
+Dashboards,0.0,0.0,4.0,49.0,169.0,222.0
+Data Cleansing / Preparation,0.0,0.0,28.0,20.0,103.0,151.0
+Database Management System (DBMS),0.0,0.0,0.0,2.0,141.0,143.0
+Deep Learning,0.0,13.0,80.0,350.0,161.0,604.0
+ETL,0.0,0.0,12.0,31.0,136.0,179.0
+Excel,1.0,0.0,3.0,36.0,256.0,296.0
+Financial Statements,0.0,0.0,0.0,0.0,107.0,107.0
+Github,0.0,17.0,19.0,49.0,150.0,235.0
+Graph Theory,0.0,0.0,2.0,6.0,99.0,107.0
+Hadoop,0.0,0.0,1.0,5.0,115.0,121.0
+Java,0.0,0.0,1.0,12.0,154.0,167.0
+JavaScript,12.0,0.0,2.0,38.0,143.0,195.0
+MATLAB,0.0,1.0,1.0,9.0,106.0,117.0
+Mongo DB,2.0,0.0,0.0,2.0,145.0,149.0
+NLP,0.0,1.0,80.0,183.0,145.0,409.0
+NoSQL,0.0,0.0,8.0,6.0,114.0,128.0
+Power BI,0.0,0.0,0.0,31.0,154.0,185.0
+Presentation Skill,0.0,17.0,7.0,21.0,148.0,193.0
+Python Programming,6.0,15.0,226.0,1775.0,405.0,2427.0
+R programming,1.0,12.0,20.0,145.0,176.0,354.0
+Regressions,0.0,50.0,21.0,248.0,168.0,487.0
+Reinforcement,0.0,11.0,10.0,67.0,143.0,231.0
+SPARK,0.0,0.0,3.0,70.0,151.0,224.0
+SQL,2.0,1.0,39.0,151.0,227.0,420.0
+Statistics,0.0,15.0,39.0,93.0,126.0,273.0
+Supervised Machine Learning,0.0,27.0,32.0,281.0,143.0,483.0
+Tableau,0.0,0.0,2.0,24.0,148.0,174.0
+Time Series Analysis,0.0,0.0,3.0,23.0,69.0,95.0
+Unsupervised Machine Learning,0.0,23.0,7.0,104.0,97.0,231.0
+Visualizations,2.0,8.0,40.0,182.0,147.0,379.0
